@@ -70,8 +70,7 @@ This list formed the basis for a presentation at VueJS LA meetup on January 14, 
 - []  [A good book on how to write good CSS](https://maintainablecss.com/)
 - []  [Use console.log() like a pro](https://markodenic.com/use-console-log-like-a-pro/)
 
-## Useful Tools
-### Cheatcheets
+## Cheatcheets
 https://www.vuemastery.com/pdf/Nuxtjs-Cheat-Sheet.pdf
 https://www.vuemastery.com/pdf/Vue-Essentials-Cheat-Sheet.pdf
 
