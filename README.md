@@ -62,6 +62,7 @@ A running list of best practices, guides and tutorials.
 ## Nuxt
 - [ ] https://nuxtjs.org/docs/2.x/features/nuxt-components
 - [ ] https://openbase.com/js/nuxt/tutorials
+- [ ] https://www.youtube.com/watch?v=ltzlhAxJr74
 
 ## Talks to Watch
 - [ ] [Best practices presentation by Drew Baker - VueJS LA meetup - January 14, 2020 ](https://docs.google.com/presentation/d/1xMqvylzoIwpEgwFEpXI8it_HGo7BUGrt8h65E0nvEQo/edit?usp=sharing)
@@ -94,7 +95,8 @@ A running list of best practices, guides and tutorials.
 1.  Use positioning sparingly. In general most people over use `position:absolute`.
 1.  If using useless markup to get a desired style, you’re doing it wrong. For example wrapping divs, centering divs.
 1.  Define CSS for active and hover states at the end of component, followed by breakpoints at end of file please!
-1.  When using SCSS if you’re going more than 2 levels deep, question yourself. Think of the top level element class as a namespace, so things in it don’t need namespaces too.
+1.  When using SCSS if you’re going more than 2 levels deep, question yourself. 
+    + Think of the top level element class as a namespace, so things in it don’t need namespaces too.
 1.  Never use background-images, use object-fit with src-set instead.
 1.  For class names use is-{state} and has-{feature} or not-{type}. Like is-active, is-opened, has-video, not-case-study, is-active.
 1.  Common element class names: `block`, `grid`, `panel`, `menu`, `overlay`, `meta`, `title`, `section`, `section-title`.
@@ -106,7 +108,7 @@ A running list of best practices, guides and tutorials.
 1.  Order your CSS in the same order your markup is in. Top to bottom as coded.
 1.  A `switch` statement is better than a lot of `if-else` conditions
 1.  [This is how you do forms in Vue.](https://alligator.io/vuejs/vue-form-handling/)
-1.  Don't use icon fonts, use SVGs. SVGO is a good tool for optimizing SVGs.
+1.  Don't use icon fonts, use SVGs. [SVGO](https://github.com/svg/svgo) is a good tool for optimizing SVGs.
 1.  If your component accesses `$store` or `$route` directly, you're doing it wrong. Use props and events instead. 
 - [ ]  100vh doesn't work great on mobile. [See this for how to do it right](https://stackoverflow.com/questions/58886797/how-to-access-the-real-100vh-on-ios-in-css).
 - [ ] Be sure to include the [`viewBox` attribute](https://www.google.com/search?q=viewBox+attribute&rlz=1C5CHFA_enUS818US818&sxsrf=ALeKk00gO9BELT3J_3f6UrRdo6-PVTA7KQ%3A1618689197170&ei=rTx7YKnpCZLv-gTw8LDgDg&oq=viewBox+attribute&gs_lcp=Cgdnd3Mtd2l6EAMyAggAMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeOgYIABAFEB46BggAEAgQHlDg1wpY0f8KYMCaC2gAcAJ4AIABuwGIAdMEkgEDMy4ymAEAoAECoAEBqgEHZ3dzLXdpesABAQ&sclient=gws-wiz&ved=0ahUKEwjp8-SUh4bwAhWSt54KHXA4DOwQ4dUDCA8&uact=5).
