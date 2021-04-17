@@ -44,9 +44,12 @@ This list formed the basis for a presentation at VueJS LA meetup on January 14, 
 ## Important Concepts (Review)
 1.  We care about Chrome, Safari and Firefox in that order.
 1.  Don’t leave behind old code.
-- [ ] [Max-width]()  You can write breakpoints without needing a media query generally. Often using width and max-width is enough. Good break points will really just be font-size and reducing columns perhaps.
-- [ ] Collapsible margins!
-- [ ] Intrinsic ratio sizing!
+- [ ] [Max-width]()  
+    + You can write breakpoints without needing a media query generally.
+    + Often using width and max-width is enough. 
+    + Good break points can often be created by using `font-size` and reducing columns.
+- [ ] [Collapsible margins](https://www.google.com/search?q=collapsible+margins&rlz=1C5CHFA_enUS818US818&oq=Collapsible+margins&aqs=chrome.0.35i39j0i10l4j0j0i390l4.707j0j1&sourceid=chrome&ie=UTF-8)
+- [ ] [Intrinsic ratio sizing](https://www.google.com/search?q=Intrinsic+ratio+sizing&rlz=1C5CHFA_enUS818US818&oq=Intrinsic+ratio+sizing&aqs=chrome..69i57j69i59.975j0j1&sourceid=chrome&ie=UTF-8)
 - [ ] Understand when to use wp-content, v-html, v-text
 
 
