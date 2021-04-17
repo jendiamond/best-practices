@@ -40,13 +40,19 @@ This list formed the basis for a presentation at VueJS LA meetup on January 14, 
 
 #### Flex
 - [ ] https://the-echoplex.net/flexyboxes/
+- [ ] http://flexboxfroggy.com/
 
 ### CSS Grid
 - [ ] [CSS Grid Generator](https://cssgrid-generator.netlify.app/)
 
 ## Vue
+### [Intro to Vue 2](https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/)
+### Components
+- [ ] https://frontstuff.io/build-your-first-vue-js-component
 
 ## Nuxt
+- [ ] https://nuxtjs.org/docs/2.x/features/nuxt-components
+- [ ] https://openbase.com/js/nuxt/tutorials
 
 ## Talks to Watch
 - [ ] https://docs.google.com/presentation/d/1xMqvylzoIwpEgwFEpXI8it_HGo7BUGrt8h65E0nvEQo/edit?usp=sharing
