@@ -1,4 +1,4 @@
-<!-- Author: @drewbaker -->
+<!-- Author: @drewbaker https://github.com/funkhaus/factory/blob/master/src/components/WorkBlock/BlockWork.vue -->
 <template>
     <nuxt-link class="block-work" :to="to">
         <!-- Component declartion is kebab cased -->
