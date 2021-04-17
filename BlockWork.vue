@@ -7,7 +7,7 @@
         <!-- We use v-html because most of the time the text comes out of our CMS with HTML tags in it-->
         <h2 class="title" v-html="title" />
 
-        <!-- Nice to prepend SVG component names to not confuse them with regaulr components -->
+        <!-- Nice to prepend SVG component names to not confuse them with regular components -->
         <svg-logo-funkhaus class="logo" />
     </nuxt-link>
 </template>
