@@ -1,4 +1,4 @@
-# Best practices Et Cetera
+# Best Practices Et Cetera
 A running list of best practices, guides and tutorials.
 
 [Important Concepts](https://github.com/jendiamond/best-practices/blob/master/README.md#important-concepts) | 
