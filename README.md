@@ -41,13 +41,14 @@ This list formed the basis for a presentation at VueJS LA meetup on January 14, 
 1.  This is [a good clean sample](https://github.com/funkhaus/factory/blob/master/src/components/WorkBlock/BlockWork.vue) component to study.
 1.  If your component accesses $store or $route directly, you're doing it wrong. Use props and events instead. 
 
-## Important Concepts
+## Important Concepts (Review)
 1.  We care about Chrome, Safari and Firefox in that order.
-1.  You can write breakpoints without needing a media query generally. Often using width and max-width is enough. Good break points will really just be font-size and reducing columns perhaps.
-1.  Understand collapsible margins!
-1.  Understand intrinsic ratio sizing!
-1.  Understand when to use wp-content, v-html, v-text
-1.  Clean up after yourself, don’t leave behind old code!
+1.  Don’t leave behind old code.
+- [ ] [Max-width]()  You can write breakpoints without needing a media query generally. Often using width and max-width is enough. Good break points will really just be font-size and reducing columns perhaps.
+- [ ] Collapsible margins!
+- [ ] Intrinsic ratio sizing!
+- [ ] Understand when to use wp-content, v-html, v-text
+
 
 ## Be better at
 1.  Drew to show everyone how to build top-panel/bottom-panel style fixed sliding sites
@@ -60,39 +61,39 @@ This list formed the basis for a presentation at VueJS LA meetup on January 14, 
 1.  Use Prettier along with the linting tools built into [fuxt](https://github.com/funkhaus/fuxt).
 
 ## Useful tools (Review each)
-- [] [Demystifing Nth-Child in CSS](http://www.nealgrosskopf.com/tech/resources/80/)
-- [] [Flexy Boxes Playground](https://the-echoplex.net/flexyboxes/)
-- [] [CSS Grid Generator](https://cssgrid-generator.netlify.com/)
-- [] [16:9 calculator](https://www.size43.com/16by9-aspect-ratio-calculator/)
-- [] [Clippy](https://bennettfeely.com/clippy/)
-- [] [Facebook OG debugger](https://developers.facebook.com/tools/debug/)
-- [] [Code Drops](https://codedrops.io/)
+- [ ] [Demystifing Nth-Child in CSS](http://www.nealgrosskopf.com/tech/resources/80/)
+- [ ] [Flexy Boxes Playground](https://the-echoplex.net/flexyboxes/)
+- [ ] [CSS Grid Generator](https://cssgrid-generator.netlify.com/)
+- [ ] [16:9 calculator](https://www.size43.com/16by9-aspect-ratio-calculator/)
+- [ ] [Clippy](https://bennettfeely.com/clippy/)
+- [ ] [Facebook OG debugger](https://developers.facebook.com/tools/debug/)
+- [ ] [Code Drops](https://codedrops.io/)
 
 ## Good reading
-- []  [Vue Style Guide](https://vuejs.org/v2/style-guide/)
-- []  [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
-- []  [You (Might) Don't Need jQuery](https://github.com/nefe/You-Dont-Need-jQuery)
-- []  [A Smashing Guide To The World Of Search Engine Optimization](https://www.smashingmagazine.com/smashing-guide-search-engine-optimization/)
-- []  [Good overview of ES6 destructuring](https://2ality.com/2015/01/es6-destructuring.html)
-- []  [A good book on how to write good CSS](https://maintainablecss.com/)
-- []  [Use console.log() like a pro](https://markodenic.com/use-console-log-like-a-pro/)
+- [ ] [Vue Style Guide](https://vuejs.org/v2/style-guide/)
+- [ ] [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+- [ ] [You (Might) Don't Need jQuery](https://github.com/nefe/You-Dont-Need-jQuery)
+- [ ] [A Smashing Guide To The World Of Search Engine Optimization](https://www.smashingmagazine.com/smashing-guide-search-engine-optimization/)
+- [ ] [Good overview of ES6 destructuring](https://2ality.com/2015/01/es6-destructuring.html)
+- [ ] [A good book on how to write good CSS](https://maintainablecss.com/)
+- [ ]  [Use console.log() like a pro](https://markodenic.com/use-console-log-like-a-pro/)
 
-## Cheatcheets
-+ https://www.vuemastery.com/pdf/Nuxtjs-Cheat-Sheet.pdf
-+ https://www.vuemastery.com/pdf/Vue-Essentials-Cheat-Sheet.pdf
+## Cheatcheets (Review)
+- [ ] https://www.vuemastery.com/pdf/Nuxtjs-Cheat-Sheet.pdf
+- [ ] https://www.vuemastery.com/pdf/Vue-Essentials-Cheat-Sheet.pdf
 
 ## Tutorials
 ### CSS
 
 #### Flex
-https://the-echoplex.net/flexyboxes/
+- [ ] https://the-echoplex.net/flexyboxes/
 
 ### CSS Grid
-[CSS Grid Generator](https://cssgrid-generator.netlify.app/)
+- [ ] [CSS Grid Generator](https://cssgrid-generator.netlify.app/)
 
 ## Vue
 
 ## Nuxt
 
 ## Talks to Watch
-- [] https://docs.google.com/presentation/d/1xMqvylzoIwpEgwFEpXI8it_HGo7BUGrt8h65E0nvEQo/edit?usp=sharing
+- [ ] https://docs.google.com/presentation/d/1xMqvylzoIwpEgwFEpXI8it_HGo7BUGrt8h65E0nvEQo/edit?usp=sharing
