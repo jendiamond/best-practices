@@ -42,7 +42,7 @@ This list formed the basis for a presentation at VueJS LA meetup on January 14, 
 1.  Understand when to use wp-content, v-html, v-text
 1.  Clean up after yourself, don’t leave behind old code!
 
-## Be better at:
+## Be better at
 1.  Drew to show everyone how to build top-panel/bottom-panel style fixed sliding sites
 1.  Really think hard about what can be a component. Makes a site so hard if you don’t use components.
 1.  Know what components and tools.js we have in [fuxt](https://github.com/funkhaus/fuxt) and our [haus components](https://github.com/funkhaus/components)!
@@ -52,15 +52,16 @@ This list formed the basis for a presentation at VueJS LA meetup on January 14, 
 1.  Organize your windows into panels of editor and browser and dev tools.
 1.  Use Prettier along with the linting tools built into [fuxt](https://github.com/funkhaus/fuxt).
 
-## Useful tools:
-- []  [Demystifing Nth-Child in CSS](http://www.nealgrosskopf.com/tech/resources/80/)
-- []  [Flexy Boxes Playground](https://the-echoplex.net/flexyboxes/)
-- []  [CSS Grid Generator](https://cssgrid-generator.netlify.com/)
-- []  [16:9 calculator](https://www.size43.com/16by9-aspect-ratio-calculator/)
-- []  [Clippy](https://bennettfeely.com/clippy/)
-- []  [Facebook OG debugger](https://developers.facebook.com/tools/debug/)
+## Useful tools (Review each)
+- [] [Demystifing Nth-Child in CSS](http://www.nealgrosskopf.com/tech/resources/80/)
+- [] [Flexy Boxes Playground](https://the-echoplex.net/flexyboxes/)
+- [] [CSS Grid Generator](https://cssgrid-generator.netlify.com/)
+- [] [16:9 calculator](https://www.size43.com/16by9-aspect-ratio-calculator/)
+- [] [Clippy](https://bennettfeely.com/clippy/)
+- [] [Facebook OG debugger](https://developers.facebook.com/tools/debug/)
+- [] [Code Drops](https://codedrops.io/)
 
-## Good reading:
+## Good reading
 - []  [Vue Style Guide](https://vuejs.org/v2/style-guide/)
 - []  [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 - []  [You (Might) Don't Need jQuery](https://github.com/nefe/You-Dont-Need-jQuery)
@@ -73,15 +74,19 @@ This list formed the basis for a presentation at VueJS LA meetup on January 14, 
 ### Cheatcheets
 https://www.vuemastery.com/pdf/Nuxtjs-Cheat-Sheet.pdf
 https://www.vuemastery.com/pdf/Vue-Essentials-Cheat-Sheet.pdf
+
+## Tutorials
 ### CSS
-[Clippy](https://bennettfeely.com/clippy/)
-[Code Frops](https://codedrops.io/
+
 #### Flex
 https://the-echoplex.net/flexyboxes/
+
 ### CSS Grid
 [CSS Grid Generator](https://cssgrid-generator.netlify.app/)
 
-## Tutorials
+## Vue
+
+## Nuxt
 
 ## Talks to Watch
 - [] https://docs.google.com/presentation/d/1xMqvylzoIwpEgwFEpXI8it_HGo7BUGrt8h65E0nvEQo/edit?usp=sharing
