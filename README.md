@@ -35,11 +35,12 @@ This list formed the basis for a presentation at VueJS LA meetup on January 14, 
 1.  Order your CSS in the same order your markup is in. Top to bottom as coded.
 1.  A `switch` statement is better than a lot of if-else conditions
 1.  [This is how you do forms in Vue.](https://alligator.io/vuejs/vue-form-handling/)
-1.  100vh doesn't work great on mobile. [See this for how to do it right](https://stackoverflow.com/questions/58886797/how-to-access-the-real-100vh-on-ios-in-css).
 1.  Don't use icon fonts, use SVGs. SVGO is a good tool for optimizing SVGs.
-    1.  Be sure to include the `viewBox` attribute.
-1.  This is [a good clean sample](https://github.com/funkhaus/factory/blob/master/src/components/WorkBlock/BlockWork.vue) component to study.
-1.  If your component accesses $store or $route directly, you're doing it wrong. Use props and events instead. 
+1.  If your component accesses `$store` or `$route` directly, you're doing it wrong. Use props and events instead. 
+- [ ]  100vh doesn't work great on mobile. [See this for how to do it right](https://stackoverflow.com/questions/58886797/how-to-access-the-real-100vh-on-ios-in-css).
+- [ ] Be sure to include the [`viewBox` attribute](https://www.google.com/search?q=viewBox+attribute&rlz=1C5CHFA_enUS818US818&sxsrf=ALeKk00gO9BELT3J_3f6UrRdo6-PVTA7KQ%3A1618689197170&ei=rTx7YKnpCZLv-gTw8LDgDg&oq=viewBox+attribute&gs_lcp=Cgdnd3Mtd2l6EAMyAggAMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeOgYIABAFEB46BggAEAgQHlDg1wpY0f8KYMCaC2gAcAJ4AIABuwGIAdMEkgEDMy4ymAEAoAECoAEBqgEHZ3dzLXdpesABAQ&sclient=gws-wiz&ved=0ahUKEwjp8-SUh4bwAhWSt54KHXA4DOwQ4dUDCA8&uact=5).
+- [ ] This is [a good clean sample](https://github.com/funkhaus/factory/blob/master/src/components/WorkBlock/BlockWork.vue) component to study.
+
 
 ## Important Concepts (Review)
 1.  We care about Chrome, Safari and Firefox in that order.
