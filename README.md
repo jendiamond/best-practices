@@ -1,5 +1,5 @@
-# UCLA / Funkhaus best practices
-A running list of best practices.
+# Best practices Et Cetera
+A running list of best practices, guides and tutorials.
 
 [Important Concepts](https://github.com/jendiamond/best-practices/blob/master/README.md#important-concepts) | 
 [Get better at](https://github.com/jendiamond/best-practices/blob/master/README.md#be-better-at) | 
@@ -8,7 +8,16 @@ A running list of best practices.
 [Cheatcheets](https://github.com/jendiamond/best-practices/blob/master/README.md#cheatcheets) | 
 [Tutorials](https://github.com/jendiamond/best-practices/blob/master/README.md#tutorials)
 
-This list formed the basis for a presentation at VueJS LA meetup on January 14, 2020 by Drew Baker. You can see the slides [here](https://docs.google.com/presentation/d/1xMqvylzoIwpEgwFEpXI8it_HGo7BUGrt8h65E0nvEQo/edit?usp=sharing).
+## Overview
+
+1. [Roadmap](https://github.com/UCLALibrary/library-website-nuxt/wiki/Roadmap)
+1. [Website Development Process](https://github.com/UCLALibrary/library-website-nuxt/wiki/Website-Development-Process)
+
+## Guides
+
+1. [How to write a Component Request](https://github.com/UCLALibrary/library-website-nuxt/wiki/How-to-write-a-Component-Request)
+1. [How to build a component for UCLA Library](https://github.com/UCLALibrary/library-website-nuxt/wiki/How-to-build-a-component-for-UCLA-Library)
+1. [How to submit a component for review](https://github.com/UCLALibrary/library-website-nuxt/wiki/How-to-submit-a-component-for-review)
 
 ## Docs
 + [Vue 2](https://vuejs.org/v2/)
@@ -55,7 +64,7 @@ This list formed the basis for a presentation at VueJS LA meetup on January 14, 
 - [ ] https://openbase.com/js/nuxt/tutorials
 
 ## Talks to Watch
-- [ ] https://docs.google.com/presentation/d/1xMqvylzoIwpEgwFEpXI8it_HGo7BUGrt8h65E0nvEQo/edit?usp=sharing
+- [ ] [Best practices presentation by Drew Baker - VueJS LA meetup - January 14, 2020 ](https://docs.google.com/presentation/d/1xMqvylzoIwpEgwFEpXI8it_HGo7BUGrt8h65E0nvEQo/edit?usp=sharing)
 
 ## Important Concepts (Review)
 1.  We care about Chrome, Safari and Firefox in that order.
