@@ -55,7 +55,9 @@ A running list of best practices, guides and tutorials.
 - [ ] [CSS Grid Generator](https://cssgrid-generator.netlify.app/)
 
 ## Vue
-### [Intro to Vue 2](https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/)
+- [ ] [Intro to Vue 2](https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/)
+- [ ] [Vue JSS Crassh Course](https://www.youtube.com/watch?v=qZXt1Aom3Cs)
+
 ### Components
 - [ ] https://frontstuff.io/build-your-first-vue-js-component
 
